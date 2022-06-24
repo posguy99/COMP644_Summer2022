@@ -42,7 +42,7 @@ URI = "https://webexapis.com/v1/memberships"
 resp = requests.post(URI, \
     headers={
         "Authorization" : HEADERS,
-        "ContentType": CONTENT_TYPE
+        "Content-Type": CONTENT_TYPE
         }, data=BODY)
 
 print (f'HTTP Response Code {resp.status_code}')
