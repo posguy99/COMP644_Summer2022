@@ -38,3 +38,14 @@ headers={
 
 print (f'HTTP Response Code {resp.status_code}' )
 print ("*"*20)
+
+if resp.status_code > 199 or resp.status_code < 300:
+#a successful api call has completed
+    json_code = resp.json()
+    ROOMID = json_code["id"]
+    FILENAME = input ("What would you like your new roomId file saved as? ")
+    write_plain_text_file(FILENAME, ROOMID)
+    print (f'Your roomId is has been written to: {FILENAME}')
+else:
+    #api call failed
+    print ("Houston we have a problem")
