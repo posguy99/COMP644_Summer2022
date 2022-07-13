@@ -36,7 +36,13 @@ for network in networks:
     print("="*5)
 
     #remember a specific network
-    if network["name"] == "DevNet Sandbox ALWAYS ON" :
+    if network["name"] == "DevNet Sandbox ALWAYS ON":
         params["networkId"] = network["id"]
+        print(params["networkId"])
 print ("*"*40)
 
+devices = resp.networks.getNetworkDevices(params["networkId"])
+net_equipment = devices[0]
+print("Devices")
+print(net_equipment)
+print("*"*40)
