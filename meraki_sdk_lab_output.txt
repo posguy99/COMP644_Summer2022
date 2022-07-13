@@ -1,0 +1,149 @@
+********************
+Organizations
+Organization Name: DeLab
+Organization Id: 681155
+=====
+Organization Name: Next Meraki Org
+Organization Id: 573083052582915028
+=====
+Organization Name: test5
+Organization Id: 575334852396583819
+=====
+Organization Name: helloworld
+Organization Id: 575334852396583708
+=====
+Organization Name: TNF - The Network Factory
+Organization Id: 575334852396583536
+=====
+Organization Name: Jacks_test_net
+Organization Id: 573083052582914605
+=====
+Organization Name: DevNet Sandbox
+Organization Id: 549236
+=====
+Organization Name: My organization
+Organization Id: 575334852396583264
+=====
+Organization Name: changetest
+Organization Id: 575334852396583237
+=====
+Organization Name: sample_network
+Organization Id: 575334852396583213
+=====
+Organization Name: organization with name changed
+Organization Id: 573083052582914233
+=====
+Organization Name: Sample Org
+Organization Id: 575334852396583197
+=====
+Organization Name: Testlab
+Organization Id: 575334852396583158
+=====
+Organization Name: Wotan
+Organization Id: 575334852396583134
+=====
+Organization Name: MuthanaAPITest
+Organization Id: 575334852396583133
+=====
+Organization Name: thienbao
+Organization Id: 575334852396583131
+=====
+Organization Name: gk
+Organization Id: 575334852396583128
+=====
+Organization Name: The Org
+Organization Id: 575334852396583093
+=====
+Organization Name: PM_Test
+Organization Id: 575334852396583071
+=====
+Organization Name: trung
+Organization Id: 575334852396583051
+=====
+Organization Name: My organization
+Organization Id: 575334852396583031
+=====
+Organization Name: DevNet Test Org
+Organization Id: 575334852396582986
+=====
+Organization Name: DevNet Test Org
+Organization Id: 575334852396582973
+=====
+Organization Name: Personal.Lekhnath
+Organization Id: 575334852396582756
+=====
+Organization Name: Your Organization
+Organization Id: 575334852396582755
+=====
+Organization Name: My organization
+Organization Id: 575334852396582738
+=====
+Organization Name: SVR
+Organization Id: 575334852396582684
+=====
+Organization Name: DevNetAssoc
+Organization Id: 566327653141842188
+=====
+Organization Name: Ftreqah organization
+Organization Id: 575334852396582591
+=====
+Organization Name: Forest City - Other
+Organization Id: 52636
+=====
+Organization Name: Cisco Live US 2019
+Organization Id: 865776
+=====
+Organization Name: dev 
+Organization Id: 463308
+=====
+****************************************
+Networks:
+Network Name: L_646829496481105433
+Network Name: DevNet Sandbox ALWAYS ON
+=====
+Network Name: L_646829496481110685
+Network Name: Mike_test_vmx
+=====
+Network Name: L_646829496481111123
+Network Name: PKC 3 Python Test
+=====
+Network Name: L_646829496481111388
+Network Name: DNSMB3-dxxxxxx0gmail.com
+=====
+Network Name: L_646829496481111426
+Network Name: DNSMB1-kxxxxxxxccisco.com
+=====
+Network Name: L_646829496481111438
+Network Name: DNENT2-sxxxxxxhgmail.com
+=====
+Network Name: L_646829496481111448
+Network Name: DNENT1-txxx3gmail.com
+=====
+Network Name: L_646829496481111449
+Network Name: DNSMB5
+=====
+Network Name: L_646829496481111450
+Network Name: DNSMB4
+=====
+Network Name: L_646829496481111452
+Network Name: DNSMB2
+=====
+Network Name: L_646829496481111453
+Network Name: DNENT3
+=====
+Network Name: N_646829496481187875
+Network Name: vmx_1.1_mike
+=====
+Network Name: N_646829496481188321
+Network Name: GLB_Network
+=====
+Network Name: N_646829496481188541
+Network Name: vmx_1.2_mike
+=====
+Network Name: N_646829496481188542
+Network Name: vmx_1.3_mike
+=====
+Network Name: N_646829496481189507
+Network Name: CLUS-22
+=====
+****************************************
